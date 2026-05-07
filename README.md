@@ -58,8 +58,8 @@ Analyze user conversion funnel, identify major drop-off points, and provide opti
 - Tableau
 
 ### Project Folder
-```txt
-quicku-funnel-analysis
+```
+cryptocurrency-volatility-analysis.pdf
 ```
 
 ---
