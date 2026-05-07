@@ -1,4 +1,4 @@
-# Ps Intelligence Volatility Analysis
+# Cryptocurrency Volatility Analysis
 
 ## Overview
 Analyze cryptocurrency market volatility and identify price movement patterns across different assets.
