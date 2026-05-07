@@ -80,8 +80,8 @@ Analyze lending portfolio performance, customer risk segmentation, and hidden po
 - SQL
 
 ### Project Folder
-```txt
-fintech-risk-analysis
+```
+revofin-risk-analysis.pdf
 ```
 
 ---
