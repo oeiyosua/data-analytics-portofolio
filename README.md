@@ -103,8 +103,8 @@ Analyze cryptocurrency market volatility trends and identify asset movement patt
 - Tableau
 
 ### Project Folder
-```txt
-cryptocurrency-volatility-analysis
+```
+cryptocurrency-volatility-analysis.pdf
 ```
 
 ---
